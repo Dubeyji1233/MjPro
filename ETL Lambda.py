@@ -1,6 +1,5 @@
 import pandas as pd
 import psycopg2
-import boto3
 import json
 
 def transform_data(data):
